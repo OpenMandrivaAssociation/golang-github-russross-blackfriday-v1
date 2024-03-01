@@ -12,7 +12,7 @@ Version:			1.6.0
 %gometa
 
 Summary:	A markdown processor for Go 
-Name:		golang-github-russross-blackfriday
+Name:		golang-github-russross-blackfriday-v1
 
 Release:	1
 Source0:	https://github.com/russross/blackfriday/archive/v%{version}/blackfriday-%{version}.tar.gz
