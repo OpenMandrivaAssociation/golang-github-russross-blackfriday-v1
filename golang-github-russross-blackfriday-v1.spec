@@ -7,7 +7,7 @@
 %global import_path	github.com/russross/blackfriday/v1
 %global goipath		github.com/russross/blackfriday
 %global forgeurl	https://github.com/russross/blackfriday
-Version:			1.6.0
+Version:			2.1.0
 
 %gometa
 
